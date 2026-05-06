@@ -3,9 +3,7 @@ This is a multi-zone event parking system where vehicle types, access categories
 
 
 
-
-<img width="1440" height="722" alt="image" src="https://github.com/user-attachments/assets/62ecd85a-40b4-46d0-8dac-e99dcdaf46e3" />
-
+<img width="1440" height="1082" alt="image" src="https://github.com/user-attachments/assets/8faf8eae-ff6f-4a30-b52c-0cfbc2d13aab" />
 
 
 
